@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sososearch
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning R
+- 💞️ I’m looking to collaborate on anything
